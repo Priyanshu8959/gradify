@@ -13,7 +13,7 @@
 ## 🏆 Hackathon Victory
 
 <p align="center">
-  <img src="./docs/screenshots/winner.jpg" width="45%" />
+   
   <img src="./docs/screenshots/winningTeam.jpg" width="45%" />
 </p>
 
