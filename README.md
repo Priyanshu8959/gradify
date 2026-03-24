@@ -436,11 +436,11 @@ This project is currently licensed under the **ISC License**.
 
 ## Contact
 
-**Project Maintainer:** Karan Kumar
+**Project Maintainer:** Priyanshu Pawar
 
-**Email:** karan03945@gmail.com
+**Email:** pawarpriyanshu198@gmail.com
 
-**Project Repository:** https://github.com/imksh/NavKalpana-RICR-NK-0020.git
+**Project Repository:** https://github.com/Priyanshu8959/gradify.git
 
 ---
 
